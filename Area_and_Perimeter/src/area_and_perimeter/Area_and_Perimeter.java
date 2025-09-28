@@ -18,7 +18,7 @@ public class Area_and_Perimeter {
         /* constant in java are always in capital letters*/
         
       //  double PI = 3.14;
-        double radius = 6.5;
+        double radius = 6.6;
         int diameter = 13;
         
         double area = Math.PI * Math.pow(radius, 2)  ;
